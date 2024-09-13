@@ -1,6 +1,7 @@
-## nvim
 
-## Preview
+# nvim
+
+A neovim configuration that integrates [avante.nvim](https://github.com/yetone/avante.nvim), allowing the use of multiple LLM models for coding.
 
 <p align="center">
   <img src="./screenshot/screenshot.png" alt="Screenshot" />
@@ -9,6 +10,7 @@
 ## Importants
 
 ### Font
+
 [Install nerd-fonts]("https://github.com/ryanoasis/nerd-fonts")
 
 ### Keymaps
