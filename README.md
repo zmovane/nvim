@@ -11,7 +11,7 @@ A neovim configuration that integrates [avante.nvim](https://github.com/yetone/a
 
 ### Font
 
-[Install nerd-fonts]("https://github.com/ryanoasis/nerd-fonts")
+[Install nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 
 ### Keymaps
 
