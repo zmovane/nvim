@@ -41,9 +41,9 @@ A modern neovim configuration that integrates [avante.nvim](https://github.com/y
 
 #### Git
 
-| Key              | Description           | Mode           |
-| --------------   | --------------        | -------------- |
-| leadergg         | Open lazy-git         | **n,v**        |
+| Key              | Description    | Mode           |
+| --------------   | -------------- | -------------- |
+| &lt;leader&gt;gg | Open lazy-git  | **n,v**        |
 
 #### LSP
 
